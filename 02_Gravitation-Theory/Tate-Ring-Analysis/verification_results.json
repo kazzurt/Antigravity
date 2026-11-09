@@ -1,0 +1,200 @@
+{
+  "status": "All bounded-model checks passed; no empirical fit performed",
+  "checks": [
+    "one-component fluxoid, frequency normalization and inductance-independent narrow-loop zeros",
+    "neutral fixed-winding branch retains m_spacing/m_s = 1+x",
+    "200 positive-stiffness charged examples verify winding-spacing denominator 1+xy",
+    "equal charge/mass with common winding reduces to the ordinary single-phase spacing",
+    "stationary applied/trapped-flux offset leaves branch spacing invariant",
+    "correlated-intercept GLS leaves centered slope variance sigma^2/sum(n^2)",
+    "spacing-only x/area/surface design has rank 1; independent area and surface controls restore rank 3",
+    "thin-film annulus refinement, pickup-zero/current distinction, and narrow-ring area identity"
+  ],
+  "synthetic_annulus_parameters_SI": {
+    "radius": 0.01,
+    "width": 0.0002,
+    "thickness": 5e-09,
+    "pickup_radius": 0.008,
+    "pickup_z": 0.001
+  },
+  "synthetic_annulus": [
+    {
+      "label": "SYNTHETIC; not Tate data",
+      "lambda_nm": 50.0,
+      "cells": 32,
+      "area_effective_m2": 0.00031379008771719634,
+      "area_bias_ppm": -1175.128931375391,
+      "refinement_change_ppm": null,
+      "minimum_eigenvalue_H": 1.7029965294810386e-08
+    },
+    {
+      "label": "SYNTHETIC; not Tate data",
+      "lambda_nm": 50.0,
+      "cells": 64,
+      "area_effective_m2": 0.00031378844746465936,
+      "area_bias_ppm": -1180.3500173589443,
+      "refinement_change_ppm": -5.227228651261129,
+      "minimum_eigenvalue_H": 2.324543057447927e-08
+    },
+    {
+      "label": "SYNTHETIC; not Tate data",
+      "lambda_nm": 50.0,
+      "cells": 128,
+      "area_effective_m2": 0.0003137878454724859,
+      "area_bias_ppm": -1182.2662179611366,
+      "refinement_change_ppm": -1.9184650623671473,
+      "minimum_eigenvalue_H": 3.573115626588624e-08
+    },
+    {
+      "label": "SYNTHETIC; not Tate data",
+      "lambda_nm": 50.0,
+      "cells": 256,
+      "area_effective_m2": 0.0003137876448914629,
+      "area_bias_ppm": -1182.9046871870696,
+      "refinement_change_ppm": -0.6392249600750688,
+      "minimum_eigenvalue_H": 6.073337971132637e-08
+    },
+    {
+      "label": "SYNTHETIC; not Tate data",
+      "lambda_nm": 50.0,
+      "cells": 512,
+      "area_effective_m2": 0.0003137875837080742,
+      "area_bias_ppm": -1183.0994399619765,
+      "refinement_change_ppm": -0.19498342174184558,
+      "minimum_eigenvalue_H": 1.1075453209447875e-07
+    },
+    {
+      "label": "SYNTHETIC; not Tate data",
+      "lambda_nm": 100.0,
+      "cells": 32,
+      "area_effective_m2": 0.0003138156675337301,
+      "area_bias_ppm": -1093.7058464807192,
+      "refinement_change_ppm": null,
+      "minimum_eigenvalue_H": 3.589882645750797e-08
+    },
+    {
+      "label": "SYNTHETIC; not Tate data",
+      "lambda_nm": 100.0,
+      "cells": 64,
+      "area_effective_m2": 0.00031381483944448055,
+      "area_bias_ppm": -1096.3417364284744,
+      "refinement_change_ppm": -2.6387759924917376,
+      "minimum_eigenvalue_H": 6.08839971787654e-08
+    },
+    {
+      "label": "SYNTHETIC; not Tate data",
+      "lambda_nm": 100.0,
+      "cells": 128,
+      "area_effective_m2": 0.0003138145901682906,
+      "area_bias_ppm": -1097.1352071850183,
+      "refinement_change_ppm": -0.7943416264755143,
+      "minimum_eigenvalue_H": 1.1089625241899675e-07
+    },
+    {
+      "label": "SYNTHETIC; not Tate data",
+      "lambda_nm": 100.0,
+      "cells": 256,
+      "area_effective_m2": 0.00031381451973566953,
+      "area_bias_ppm": -1097.3594011809419,
+      "refinement_change_ppm": -0.22444023717316242,
+      "minimum_eigenvalue_H": 2.109427786034812e-07
+    },
+    {
+      "label": "SYNTHETIC; not Tate data",
+      "lambda_nm": 100.0,
+      "cells": 512,
+      "area_effective_m2": 0.0003138145007223635,
+      "area_bias_ppm": -1097.419922413634,
+      "refinement_change_ppm": -0.06058771917505368,
+      "minimum_eigenvalue_H": 4.1104714634162045e-07
+    },
+    {
+      "label": "SYNTHETIC; not Tate data",
+      "lambda_nm": 200.0,
+      "cells": 32,
+      "area_effective_m2": 0.0003138799818292521,
+      "area_bias_ppm": -888.9870856046978,
+      "refinement_change_ppm": null,
+      "minimum_eigenvalue_H": 1.1125030730163183e-07
+    },
+    {
+      "label": "SYNTHETIC; not Tate data",
+      "lambda_nm": 200.0,
+      "cells": 64,
+      "area_effective_m2": 0.0003138796690734865,
+      "area_bias_ppm": -889.9826181263393,
+      "refinement_change_ppm": -0.9964183246280456,
+      "minimum_eigenvalue_H": 2.1128538270710507e-07
+    },
+    {
+      "label": "SYNTHETIC; not Tate data",
+      "lambda_nm": 200.0,
+      "cells": 128,
+      "area_effective_m2": 0.00031387958603595575,
+      "area_bias_ppm": -890.2469347958908,
+      "refinement_change_ppm": -0.2645521163247011,
+      "minimum_eigenvalue_H": 4.1138395427888975e-07
+    },
+    {
+      "label": "SYNTHETIC; not Tate data",
+      "lambda_nm": 200.0,
+      "cells": 256,
+      "area_effective_m2": 0.00031387956449412157,
+      "area_bias_ppm": -890.3155045837385,
+      "refinement_change_ppm": -0.0686308863073748,
+      "minimum_eigenvalue_H": 8.115955135972501e-07
+    },
+    {
+      "label": "SYNTHETIC; not Tate data",
+      "lambda_nm": 200.0,
+      "cells": 512,
+      "area_effective_m2": 0.00031387955898881474,
+      "area_bias_ppm": -890.3330285195965,
+      "refinement_change_ppm": -0.01753955158889653,
+      "minimum_eigenvalue_H": 1.6120258948990354e-06
+    }
+  ],
+  "synthetic_uncertainty": [
+    {
+      "label": "SYNTHETIC; not Tate uncertainty",
+      "area_spacing_correlation": -0.8,
+      "inferred_shift_sigma_ppm": 5.830951894845301
+    },
+    {
+      "label": "SYNTHETIC; not Tate uncertainty",
+      "area_spacing_correlation": 0,
+      "inferred_shift_sigma_ppm": 9.899494936611665
+    },
+    {
+      "label": "SYNTHETIC; not Tate uncertainty",
+      "area_spacing_correlation": 0.8,
+      "inferred_shift_sigma_ppm": 12.727922061357855
+    }
+  ],
+  "synthetic_kernel_examples": [
+    {
+      "label": "SYNTHETIC kernel",
+      "x": 9.2e-05,
+      "r": 0.002,
+      "y": 0,
+      "bulk_field_ratio": 1.000092,
+      "spacing_mass_ratio": 1.000092
+    },
+    {
+      "label": "SYNTHETIC kernel",
+      "x": 0.01,
+      "r": 0.02,
+      "y": 0.2,
+      "bulk_field_ratio": 1.0111464968152868,
+      "spacing_mass_ratio": 1.0139720558882235
+    }
+  ],
+  "published_comparison": {
+    "measured_ratio": 1.000084,
+    "reported_uncertainty": 2.1e-05,
+    "bare_difference_ppm": 84,
+    "corrected_baseline": 0.999992,
+    "baseline_difference_ppm": 92,
+    "note": "Published comparison only; no reconstructed covariance or significance claim"
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "schema": "tate-primary-input-manifest-v1",
+  "checked_local_date": "2026-09-04",
+  "analysis_kind": "published-summary-and-source-audit",
+  "is_new_fit": false,
+  "published_1990_result": {
+    "quantity": "m_app/(2*m_e)",
+    "value": 1.000084,
+    "reported_parenthetical_uncertainty": 0.000021,
+    "source_id": "T90",
+    "evidence_scope": "publisher abstract; full uncertainty model unavailable"
+  },
+  "published_theory_comparator": {
+    "value": 0.999992,
+    "source_id": "T89",
+    "evidence_scope": "publisher abstract; approximate external-flux theory comparator"
+  },
+  "frequency_convention": {
+    "angular_speed_variable": "Omega",
+    "angular_speed_unit": "rad/s",
+    "cyclic_frequency_variable": "nu",
+    "cyclic_frequency_unit": "Hz",
+    "conversion": "nu = Omega/(2*pi)",
+    "one_component_ideal_spacing_angular": "DeltaOmega = h/(2*m*S)",
+    "one_component_ideal_spacing_cyclic": "Deltanu = h/(4*pi*m*S)",
+    "status": "analytically normalized relation, not reconstructed data"
+  },
+  "historical_1987_thesis_description": {
+    "source_id": "TH",
+    "local_pdf": "Stanford-HEPL-Thesis-Abstracts.pdf",
+    "pdf_page_one_based": 40,
+    "printed_page": 39,
+    "sample": "thin-film niobium equatorial ring on quartz hemispherical rotor",
+    "temperature_K": 6,
+    "bearing": "precision helium gas bearing",
+    "readout": "SQUID magnetometer monitoring ring flux versus rotation",
+    "diameter_method": "two perpendicular equatorial diameters at 6 K by dye-laser interferometry",
+    "frequency_reference": "Doppler-free molecular tellurium and iodine lines",
+    "roundness_measurement_temperature": "room temperature",
+    "reported_mass_offset_ppm": 84,
+    "reported_total_uncertainty_ppm": 30,
+    "reported_statistical_precision_ppm": 5,
+    "use_warning": "Earlier thesis abstract; not a replacement for the 1989/1990 journal uncertainty"
+  },
+  "diameter_metrology_1989_abstract": {
+    "source_id": "CAL",
+    "DOI": "10.1063/1.1140291",
+    "reported_accuracy_nm": 200,
+    "reported_accuracy_ppm": 4,
+    "evidence_scope": "publisher-deposited abstract in Crossref snapshot",
+    "actual_diameter_m": null,
+    "inferred_rounded_diameter_admitted_as_data": false
+  },
+  "unavailable_measurements": {
+    "ring_radius_m": null,
+    "ring_film_width_m": null,
+    "ring_film_thickness_m": null,
+    "penetration_depth_m": null,
+    "actual_rotation_frequency_spacing_Hz": null,
+    "pickup_mutual_inductance_H": null,
+    "pickup_area_m2": null,
+    "rotor_charge_C": null,
+    "raw_flux_frequency_observations": null,
+    "geometry_calibration_covariance": null,
+    "systematic_corrections_table": null,
+    "raw_pickup_zero_equals_circulating_current_zero": null
+  },
+  "hoang_2020": {
+    "measurement_admitted": false,
+    "reported_18_ppm_admitted_as_input": false,
+    "corrigendum_DOI": "10.1016/j.matlet.2020.128597",
+    "corrigendum_scope": "first-author affiliation only",
+    "full_article_obtained": false,
+    "supplement_obtained": false
+  }
+}

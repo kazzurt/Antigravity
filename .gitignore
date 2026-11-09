@@ -1,0 +1,74 @@
+# Public repository scope
+#
+# This repository tracks the project's original knowledgebase, synthesis reports,
+# idea-stage work, and reproducible calculations. The local source archive,
+# private administration, generated review artifacts, and binary engineering
+# assets remain outside the public Git history.
+
+*
+
+!.gitignore
+!.gitattributes
+!README.md
+!INDEX.md
+!DERIVATION_PACKAGE.md
+
+!00_Knowledgebase/
+!00_Knowledgebase/**
+
+!01_Reports-and-Syntheses/
+!01_Reports-and-Syntheses/**
+
+!idea-stage/
+!idea-stage/**
+
+!02_Gravitation-Theory/
+02_Gravitation-Theory/*
+!02_Gravitation-Theory/GEM-London-Eigenmode-Theorem/
+!02_Gravitation-Theory/GEM-London-Eigenmode-Theorem/gem_london_eigenmodes.py
+!02_Gravitation-Theory/Worldtube-Inverse-Design/
+!02_Gravitation-Theory/Worldtube-Inverse-Design/worldtube_benchmarks.py
+!02_Gravitation-Theory/Worldtube-Inverse-Design/Gravitational-Meissner-Analogue-Minimum-Derivation-Package-2026.md
+!02_Gravitation-Theory/Ning-Li-Superconductivity-Program/
+!02_Gravitation-Theory/Ning-Li-Superconductivity-Program/README.md
+!02_Gravitation-Theory/Rotating-Superconductor-Response/
+!02_Gravitation-Theory/Rotating-Superconductor-Response/rotating_superconductor_response.py
+
+# Original September derivations, scripts, and generated numerical results.
+# Downloaded papers, extracted full text, and access snapshots stay local.
+!02_Gravitation-Theory/Tensor-Mode-Transformer/
+!02_Gravitation-Theory/Tensor-Mode-Transformer/*.md
+!02_Gravitation-Theory/Tensor-Mode-Transformer/*.py
+!02_Gravitation-Theory/Tensor-Mode-Transformer/*.json
+!02_Gravitation-Theory/Tensor-Mode-Transformer/*.csv
+!02_Gravitation-Theory/Tate-Ring-Analysis/
+!02_Gravitation-Theory/Tate-Ring-Analysis/*.md
+!02_Gravitation-Theory/Tate-Ring-Analysis/*.py
+!02_Gravitation-Theory/Tate-Ring-Analysis/*.json
+!02_Gravitation-Theory/Tate-Ring-Analysis/*.csv
+!02_Gravitation-Theory/Tate-Ring-Analysis/sources/
+!02_Gravitation-Theory/Tate-Ring-Analysis/sources/SOURCE-AND-INPUT-MANIFEST-2026-09-04.md
+!02_Gravitation-Theory/Tate-Ring-Analysis/sources/verified_inputs.json
+!02_Gravitation-Theory/Parallel-Review-2026-09-04/
+!02_Gravitation-Theory/Parallel-Review-2026-09-04/*.md
+!02_Gravitation-Theory/Parallel-Review-2026-09-04/*.py
+!02_Gravitation-Theory/Parallel-Review-2026-09-04/*.json
+!02_Gravitation-Theory/Parallel-Review-2026-09-04/*.svg
+!02_Gravitation-Theory/Parallel-Review-2026-09-04/*.png
+
+# November Alzofon derivation audit: check script and generated results only.
+!02_Gravitation-Theory/Alzofon-Theory-Audit/
+!02_Gravitation-Theory/Alzofon-Theory-Audit/*.md
+!02_Gravitation-Theory/Alzofon-Theory-Audit/*.py
+!02_Gravitation-Theory/Alzofon-Theory-Audit/*.json
+
+!Nathan-Inan-Publications/
+Nathan-Inan-Publications/*
+!Nathan-Inan-Publications/Download-Inan-Papers.bat
+!Nathan-Inan-Publications/download_inan_papers.ps1
+
+# Public scope: analyses of publicly available papers only. Resonator-program
+# material and local-only notes stay out of the repository.
+00_Knowledgebase/threads/resonant-field-control.md
+_private/
+00_Knowledgebase/sources/zeller*.md

@@ -1,0 +1,48 @@
+{
+  "status": "Passed; internal model checks, not empirical validation",
+  "independent_slab_cases": [
+    {
+      "outside_inverse_range": 0.2,
+      "wall_inverse_range": 0.2,
+      "thickness": 1,
+      "formula": 1.0,
+      "bvp": 1.0000000000000047,
+      "relative_error": 4.6629367034256575e-15
+    },
+    {
+      "outside_inverse_range": 0.2,
+      "wall_inverse_range": 1,
+      "thickness": 1,
+      "formula": 0.2656029585655455,
+      "bvp": 0.26560295856556243,
+      "relative_error": 6.374515260286692e-14
+    },
+    {
+      "outside_inverse_range": 0.2,
+      "wall_inverse_range": 4,
+      "thickness": 1,
+      "formula": 0.004059304622305723,
+      "bvp": 0.004059304622323265,
+      "relative_error": 4.321312495910623e-12
+    },
+    {
+      "outside_inverse_range": 1,
+      "wall_inverse_range": 4,
+      "thickness": 0.3,
+      "formula": 0.268989361389873,
+      "bvp": 0.2689893613898764,
+      "relative_error": 1.258852843699941e-14
+    },
+    {
+      "outside_inverse_range": 0.1,
+      "wall_inverse_range": 8,
+      "thickness": 1,
+      "formula": 1.8082296242445363e-05,
+      "bvp": 1.8082296261967697e-05,
+      "relative_error": 1.079637994610914e-09
+    }
+  ],
+  "random_kernel_seed": 42,
+  "random_positive_definite_kernel_cases": 1000,
+  "maximum_kernel_absolute_error": 6.661338147750939e-16
+}

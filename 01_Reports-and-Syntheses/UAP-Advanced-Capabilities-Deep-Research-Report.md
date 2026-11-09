@@ -1,0 +1,142 @@
+# UAP Evidence in the Modern Sensor Era
+
+## Executive summary
+
+**Bottom line:** the strongest publicly available evidence from 2004 through mid-2026 shows that **some UAP events were real, tracked by serious military operators, and in several cases observed by multiple witnesses and multiple sensor types**. What it does **not** publicly show, at high confidence, is a fully documented case in which calibrated raw data conclusively demonstrate performance outside known physics or known human technology. The best-supported conclusion is narrower: **there is a non-trivial residue of unresolved cases, but the public evidence for “breakthrough propulsion” is materially weaker than the public evidence for “genuine unidentified objects/events were encountered.”** citeturn7view0turn9view0turn12view0turn27search23
+
+**Steelmanned affirmative case:** the Nimitz 2004 incident remains the strongest public case for something genuinely anomalous because it combines multiple trained witnesses, shipboard radar reporting, airborne visual observation, and later FLIR footage associated with the event; Fravor’s testimony describes a wingless white “Tic Tac” that maneuvered abruptly and was then reacquired at the fighters’ CAP point roughly 60 miles away in less than a minute, while the Princeton had reportedly seen similar tracks for about two weeks descending from above 80,000 feet to about 20,000 feet. The Roosevelt 2014–2015 series is the strongest **pattern** case rather than the strongest single event: pilots repeatedly reported objects after radar upgrades, and Graves’ under-oath statement says the objects were corroborated on radar and infrared and in one case visually as a dark cube inside a clear sphere fixed at a training-area entry point. Those facts, taken at face value, are hard to dismiss as mere internet folklore. citeturn39view0turn35search0turn38view0
+
+**Pressure test:** the public record is still missing the decisive materials a physicist would want: complete raw sensor data, exact platform state vectors, radar track histories, full telemetry, synchronized multi-sensor timestamps, chain-of-custody documentation for all relevant recordings, and independent access to the classified data repeatedly said to exist. NASA’s independent study stressed that most UAP data are opportunistic, poorly calibrated for this purpose, and often missing metadata; ODNI’s 2021 report likewise warned that limited high-quality reporting prevents firm conclusions and that some apparently unusual behavior could reflect sensor error, spoofing, or observer misperception. AARO’s public position through 2026 has remained that it has found **no verifiable evidence** of extraterrestrial activity or breakthrough technology in resolved cases, while also acknowledging that only a small percentage of reports remain potentially anomalous and many archived cases simply lack sufficient scientific data. citeturn27search23turn27search28turn7view0turn12view0turn14search1turn5view0
+
+My overall assessment is therefore **moderately confident**:  
+**Verified fact:** there are well-attested military UAP encounters that remain unresolved in public.  
+**Inference:** a small subset may reflect phenomena not yet adequately characterized by current public data and methods.  
+**Not established by public evidence:** that any case already proves propulsion signatures or flight characteristics impossible for human technology or conventional physics. citeturn7view0turn9view0turn12view0turn27search23
+
+## Evidence-quality overview
+
+The table below scores **the public evidence for anomalous performance**, not the witnesses’ sincerity and not any extraterrestrial hypothesis.
+
+| Case | Witness quality | Multi-sensor corroboration | Public data provenance | Claimed anomaly strength | Best current verdict |
+|---|---:|---:|---:|---:|---|
+| USS *Nimitz* “Tic Tac” 2004 | 5/5 | 4/5 | 3/5 | 5/5 | **Unresolved; strongest public anomaly case**. Publicly strongest because of multiple named aviators, shipboard radar reporting, and later FLIR footage with DoD provenance. Raw underlying data remain incomplete in public. citeturn39view0turn35search0turn16search6 |
+| USS *Theodore Roosevelt* “GIMBAL” event 2015 | 4/5 | 3/5 | 4/5 | 3/5 | **Unresolved but mundane-plausible**. Officially authentic Navy video; public record lacks decisive raw data. AARO has not publicly issued a GIMBAL case-resolution card, and NASA/AARO repeatedly stress sensor-geometry pitfalls. citeturn16search6turn14search0turn27search23turn23view0 |
+| USS *Theodore Roosevelt* “GOFAST” event 2015 | 4/5 | 3/5 | 5/5 | 2/5 | **Resolved as not anomalous in public AARO analysis**. AARO’s case card attributes apparent high speed to motion parallax and finds performance consistent with winds. citeturn14search23turn14search0 |
+| Roosevelt / Virginia Beach recurring encounters 2014–2015 | 4/5 | 4/5 | 2/5 | 3/5 | **Pattern unresolved; individual events heterogeneous**. Graves’ sworn testimony is strong for repeated unknowns and aviation-safety significance, but the public lacks raw case files for most encounters. citeturn38view0 |
+| USS *Omaha* sphere 2019 | 3/5 | 2/5 | 2/5 | 3/5 | **Insufficient public data**. Widely discussed as “transmedium,” but I did not recover an official public case-resolution report or raw telemetry comparable to GOFAST in the sources reviewed, so it should not carry much weight in a technical argument. citeturn14search0 |
+| Chile CEFAA helicopter IR case 2014 | 4/5 | 2/5 | 2/5 | 2/5 | **Unresolved by original investigators; mundane-plausible on later reanalysis**. Worth knowing, but not a top-tier propulsion case. citeturn31news24turn32search1 |
+| France GEIPAN corpus | 3/5 | 2/5 | 5/5 | 1/5 | **Useful transparency benchmark, not proof of exotic craft**. GEIPAN’s value is institutional openness and classification discipline, not any single decisive physics case. citeturn30search0turn30search2 |
+| Hessdalen instrumented lights | 3/5 | 3/5 | 4/5 | 1/5 | **Scientifically interesting, low relevance to advanced-craft claims**. Good example of persistent instrumented anomaly study; not strong evidence for extraordinary vehicles. citeturn29search0 |
+
+A “best-evidenced” list and a “best proof of exotic propulsion” list are **not the same list**. On the first list, Nimitz ranks highest, followed by the broader Roosevelt encounters. On the second list, **none** of the public cases crosses the evidentiary threshold that would justify a strong claim of non-human or physics-defying propulsion. citeturn39view0turn38view0turn27search23turn7view0
+
+## Marquee cases
+
+### USS *Nimitz* and the “Tic Tac”
+
+**Verified fact:** retired Cmdr. David Fravor’s sworn 2023 House testimony says that on the November 2004 intercept his flight was redirected from a training event by the USS *Princeton*, whose operators had reportedly observed objects for roughly two weeks descending from above 80,000 feet to about 20,000 feet, sometimes lingering for hours. He described a white “Tic Tac” with no visible rotors, rotor wash, wings, or conventional control surfaces maneuvering above an area of disturbed water, then accelerating away and reappearing at the CAP point about 60 miles away in less than a minute. He also stated that the later FLIR clip showed no normal IR exhaust plume. citeturn39view0
+
+**Verified fact:** DoD has officially authenticated and released the three Navy videos commonly known as FLIR1, GIMBAL, and GOFAST, while stating that the aerial phenomena in those videos remained “unidentified” at the time of the 2020 release. CBS later interviewed both Fravor and Lt. Cmdr. Alex Dietrich, who publicly said the event was “unidentified” and “unsettling,” underscoring that more than one pilot in the 2004 intercept flight saw something they could not classify. citeturn16search6turn35search0turn35search3
+
+Why this case still matters is not the famous infrared clip by itself. It is the **stacking** of evidence: shipboard radar reporting, multiple aviators, weather conditions Fravor described as excellent, an intercept geometry involving two aircraft, and a later authenticated Navy FLIR video associated with the event family. That is why Nimitz remains the strongest public case. citeturn39view0turn16search6turn35search0
+
+The main caution is equally important. The most dramatic performance claims in public discourse about Nimitz depend on witness-reported timings, ranges, and radar behavior rather than on released raw track files and full telemetry. The public does **not** have the complete SPY-1 radar data, the full airborne radar tapes Fravor referenced, or sufficient raw telemetry to independently reconstruct the event at the fidelity needed to demonstrate a genuine violation of known aerodynamics. NASA’s 2023 UAP study is directly relevant here: it stressed that existing UAP observations are usually coincidental, not optimized for scientific analysis, and often lack the metadata needed for rigorous calibration. citeturn39view0turn27search23turn27search28
+
+My verdict on Nimitz is therefore: **genuinely anomalous in the public record, but not yet a public proof of exotic propulsion**. The case survives casual dismissal; it does not yet survive the strongest possible technical standard. citeturn39view0turn27search23
+
+### USS *Theodore Roosevelt* encounters, GIMBAL, and GOFAST
+
+**Verified fact:** Ryan Graves’ sworn House testimony states that after a radar upgrade in 2014, his squadron near Virginia Beach began detecting unknown objects in their airspace; these tracks were initially dismissed as software glitches but were later corroborated with infrared sensors. He testified that sightings became common enough to enter daily briefs. He also described a near-collision case in warning area W-72 involving a dark gray cube inside a clear sphere, motionless against the wind at a fixed entry point, forcing evasive action. citeturn38view0
+
+That testimony makes the Roosevelt cluster important for two reasons. First, it suggests **persistence**, not a one-off event. Second, it ties the discussion to **aviation safety**, not just mystery. Graves’ statement also says the objects were tracked on multiple sensors and sometimes appeared to accelerate up to Mach 1, hold station in hurricane-force winds, and remain aloft for durations beyond fighter endurance. Those claims are serious, but their public evidentiary weight is limited because the raw underlying tapes and telemetry for most of these events remain unavailable. citeturn38view0
+
+#### GIMBAL
+
+**Verified fact:** GIMBAL is an officially released Navy video with DoD provenance. **Verified fact:** as of the public AARO case-resolution materials I reviewed through mid-2026, AARO had publicly released a resolution card for GOFAST, but not for GIMBAL; in the November 2024 Senate hearing, Chair Gillibrand explicitly highlighted continuing public interest in the Nimitz incident and the GIMBAL video and pressed AARO to share what it could about them. citeturn16search6turn14search0turn23view0
+
+The strongest affirmative reading of GIMBAL says the object appears wingless, IR-significant, and accompanied by other unknowns, and that aviator testimony outside the clip suggests unusual behavior. The strongest skeptical reading says the video alone does **not** prove the apparent rotation is object rotation; it may be an artifact of the sensor/gimbal/optics chain interacting with a distant conventional target. **Inference:** given NASA’s warning about missing metadata and non-purpose-built sensors, and given AARO’s emphasis on frame-by-frame modeling of IR imagery in other cases, a mundane sensor/geometry explanation for the clip itself remains quite plausible. citeturn27search23turn27search28turn41view2
+
+My verdict on GIMBAL is **unresolved-but-mundane-plausible**. The clip is interesting, but the public evidence is not strong enough to cash it out as a breakthrough-propulsion event. citeturn14search0turn27search23
+
+#### GOFAST
+
+GOFAST is now much less probative than GIMBAL because AARO has publicly shown its work. Its case-resolution card concludes that the object’s apparently high speed was due to motion parallax and that the object’s performance was consistent with historical wind conditions. AARO’s summary states that the object did **not** demonstrate anomalous performance characteristics. citeturn14search23turn14search0
+
+That does not prove all Roosevelt encounters were mundane. It does show, however, that one of the three famous Navy clips most often cited as evidence of impossible speed now has a strong official prosaic account. If one is trying to estimate the true evidentiary signal in the UAP debate, GOFAST should be **downweighted sharply**. citeturn14search23
+
+### USS *Omaha* sphere
+
+The USS *Omaha* “sphere” and associated claims of a transmedium transition are important in public debate, but the public evidentiary package is weaker than Nimitz or even the broader Roosevelt pattern. In the sources reviewed here, I did **not** recover a comparable official public AARO case card, raw telemetry package, or detailed government reconstruction. Because of that, I do **not** think Omaha can presently carry much weight in a technical argument about breakthrough propulsion. It is better treated as a **watch list case** than as a pillar of the argument. citeturn14search0
+
+### Foreign military and government material
+
+France’s GEIPAN is not a “smoking gun,” but it is important because it demonstrates what an unusually transparent state UAP archive looks like. CNES states that GEIPAN has operated since 1977, works with police, air and space force, CNRS, and Météo-France, and classifies cases with only **3.3%** remaining unidentified after investigation, with a much larger share remaining unidentified because data are insufficient. That makes GEIPAN valuable as an institutional benchmark: most cases are mundane or data-poor, and a small residue remains unexplained without that implying exoticity. citeturn30search0
+
+Chile’s CEFAA 2014 helicopter infrared case is often cited because the original inquiry reportedly failed to identify the object after interviewing trained personnel and reviewing the footage. But as a propulsion case it is weak: the public data are limited, the radar story is not decisive in isolation, and later independent analyses argued the object may have been a distant conventional aircraft with contrail-related artifacts. My judgment is that the case is **interesting but low-weight** for any claim of revolutionary flight characteristics. citeturn31news24turn32search1
+
+## Physics and propulsion assessment
+
+The “Five Observables” framework is rhetorically powerful, but when mapped onto the public record it mostly collapses from “demonstrated” to “claimed” once strict calibration standards are applied. ODNI’s 2021 preliminary assessment said that some incidents reportedly involved stationary behavior in winds aloft, movement against the wind, abrupt maneuvering, considerable speed without discernable means of propulsion, and in a small number of cases associated RF energy; at the same time, the report explicitly warned these observations could result from sensor errors, spoofing, or observer misperception and required further rigorous analysis. That is the right starting point for any serious evaluation. citeturn7view0
+
+Here is the most defensible mapping:
+
+| Observable | Public support today |
+|---|---|
+| Anti-gravity / lift without visible means | **Claimed in Nimitz and some East Coast cases**, but not conclusively instrument-demonstrated in public data. citeturn39view0turn38view0 |
+| Sudden / instantaneous acceleration | **Strongly claimed for Nimitz**, weakly supported in public because the decisive kinematics are not fully released. citeturn39view0turn26search0 |
+| Hypersonic speed without signatures | **Not established in public military video record.** GOFAST now has an official parallax resolution; Nimitz estimates are model-dependent. citeturn14search23turn26search0 |
+| Low observability / signature management | **Suggested in some reports**, but public evidence is ambiguous because weak signatures can reflect geometry, range, wavelength, or sensor limitations. citeturn7view0turn27search23 |
+| Transmedium travel | **Not established by high-quality public military data in the reviewed source set.** citeturn27search23turn14search0 |
+
+The best-known quantitative paper in this space remains Knuth, Powell, and Reali’s 2019 *Entropy* article. It estimated lower bounds for accelerations in selected cases, including Nimitz, ranging from roughly 100 g to thousands of g, and emphasized the apparent absence of sonic booms, severe heat, or obvious exhaust. Taken literally, that would imply an extreme propulsion and materials problem: at those accelerations and speeds in dense atmosphere, one expects catastrophic structural loads, enormous power requirements, severe stagnation heating, and strong acoustic/shock signatures unless some entirely different aerodynamic regime is at work. citeturn26search0turn26search1
+
+But that paper’s evidentiary bottleneck is the same one that limits the whole field: the estimates are only as good as the assumed ranges, timings, object sizes, and track reconstructions. If those assumptions move, the g-loads and energies move dramatically. In plain terms, the paper is valuable as a **conditional argument** — “if the witness-based geometry is right, then known propulsion looks badly stressed” — not as a conclusive demonstration that such performance actually occurred. citeturn26search0turn26search1
+
+That is why speculative frameworks such as metric engineering, inertial-mass reduction, or “anti-gravity” do not presently earn much epistemic credit in this topic. The public evidence does not force them. More importantly, AARO’s public stance through 2026 is that none of its resolved cases points to breakthrough technologies, and NASA’s study strongly emphasized that the field’s fundamental problem is not a lack of imaginative theories but a lack of high-quality, calibrated, shareable data. citeturn12view0turn27search23turn5view0
+
+My technical judgment is therefore straightforward: **the claimed anomalies would be extraordinary if true, but the public data quality is usually insufficient to show that they are true in the strong physics sense**. That is the central distinction between “unexplained” and “inexplicable.” citeturn7view0turn27search23
+
+## Disclosure and the official record
+
+The official disclosure arc is real, substantial, and often overstated.
+
+**Verified fact:** ODNI’s June 2021 preliminary assessment examined 144 reports from 2004 to 2021, found that 80 involved multiple sensors, said most probably represented physical objects, and noted that in 18 incidents described in 21 reports observers reported unusual movement patterns or flight characteristics. It also stressed that limited high-quality data prevented firm conclusions and that only one report had been resolved with high confidence at that time, as a balloon. citeturn7view0
+
+**Verified fact:** the January 2023 ODNI annual report raised the total UAP reports in government holdings to 510 as of August 30, 2022, with 366 newly identified reports added to the earlier 144. More than half of those new reports were initially characterized as balloons, UAS, or clutter, leaving 171 uncharacterized and unattributed; some of those uncharacterized reports appeared to show unusual performance characteristics requiring further analysis. citeturn9view0
+
+**Verified fact:** the October 2023 DoD statement on the FY2023 report said AARO received 291 more reports in that period, bringing the total under review to **over 800** by April 30, 2023. **Verified fact:** the November 2024 DoD release on the FY2024 report said AARO received another **757** reports, bringing its reviewed total to **over 1,600** by June 1, 2024. In the November 2024 AARO media roundtable, Jon Kosloski said AARO had resolved hundreds of cases as balloons, birds, drones, satellites, and aircraft; that only a very small percentage were potentially anomalous; that none of the resolved cases pointed to advanced capabilities or breakthrough technologies; and that more than 900 reports remained in an active archive because they lacked sufficient scientific data. citeturn11search1turn11search3turn12view0
+
+**Verified fact:** AARO’s public trends page, current through January 15, 2026, showed the dominant resolved categories were balloons and satellites, followed by UAS, with small numbers of birds, aircraft, rockets, jetpacks, sensor artifacts, and natural atmospherics. In other words, the public resolution statistics point overwhelmingly toward ordinary objects, not exotic craft. citeturn14search1
+
+The most consequential single official document on the whistleblower/retrieval controversy remains AARO’s 2024 Historical Record Report, Volume I. Its executive summary says AARO found **no evidence** that any U.S. government investigation or official review had confirmed extraterrestrial technology; found **no empirical evidence** that the U.S. government or private companies had been reverse-engineering extraterrestrial technology; and concluded that many interviewees had mistaken authentic but conventional classified programs for alien-related activity. The report also describes “KONA BLUE” as a proposed recovery/reverse-engineering program that was not implemented as a real extraterrestrial exploitation program. citeturn5view0turn5view2
+
+That said, official disclosure does not amount to total resolution. The official position is more subtle than either “cover-up proven” or “nothing to see here.” ODNI and AARO have repeatedly said there are unresolved cases, that some reports show potentially anomalous characteristics, and that better sensor data could resolve many of them. Congress has kept pressure on the issue through the 2022 House hearing with Moultrie and Bray, the 2023 House hearing with Graves, Fravor, and Grusch, the 2023 Senate AARO hearing with Kirkpatrick, the 2024 Senate AARO hearing with Kosloski, the November 2024 House hearing “Exposing the Truth,” and the September 2025 House Task Force hearing focused on transparency and whistleblower protection. As of mid-2026, the public record shows continuing oversight and transparency pressure, but not a decisive official shift toward confirming exotic technology. citeturn17search0turn19view0turn23view1turn23view0turn18view0turn22view0turn24search1
+
+David Grusch’s testimony must be separated cleanly into **assertion** and **public evidence**.  
+**Verified fact:** under oath, Grusch stated that his claims were based on information provided by others, that he had been informed of a multidecade crash-retrieval and reverse-engineering program, and that he had been denied access. His opening statement explicitly says he was “speaking to the facts as I have been told them.” **Verified fact:** AARO’s public historical review rejects the crash-retrieval/reverse-engineering claims insofar as it has been able to test them, saying it found no empirical evidence supporting them. **Inference:** the correct public posture is neither blanket belief nor blanket dismissal; it is that Grusch’s allegations are serious enough to merit oversight, but as of mid-2026 they remain **unverified in public evidence**. citeturn39view1turn5view0turn5view2
+
+## Scientific efforts, open questions, and what would change the conclusion
+
+NASA’s 2023 independent study, the Galileo Project, UAPx, GEIPAN, and Hessdalen all contribute something useful, but none yet supplies a decisive modern proof case. NASA’s report is the most institutionally important because it reframed the issue as a data-quality problem and recommended better collection, metadata standards, machine-learning support, and coordination with AARO. The Galileo Project has proposed exactly the kind of multimodal observatories the field needs. UAPx’s first Catalina expedition is notable precisely because it is candid: most initial ambiguities were resolved, and the remaining one is just that — an ambiguity, not proof. Hessdalen remains a valuable long-term anomaly-monitoring effort, but it is far more relevant to atmospheric-lights research than to claims of advanced craft. citeturn27search23turn26academia53turn33academia72turn29search0turn30search0
+
+So what should a scientifically literate reader conclude now?
+
+The strongest public case is that **there exists a small unresolved residue of military UAP encounters that deserve continued technical scrutiny**. The strongest countercase is that **publicly released data remain too incomplete and too vulnerable to range, geometry, and sensor-interpretation error to justify strong claims of impossible flight**. Both statements can be true at once, and in my judgment both are true now. citeturn7view0turn12view0turn27search23
+
+My confidence levels are:
+
+- **High confidence** that most UAP reports in official holdings are ordinary objects, clutter, or cases too data-poor to resolve cleanly. citeturn14search1turn12view0
+- **Moderate confidence** that Nimitz and parts of the Roosevelt pattern remain genuinely unresolved in the public record. citeturn39view0turn38view0
+- **Low confidence** that the currently public evidence already proves non-human technology or a need to revise physics. citeturn27search23turn5view0turn12view0
+
+What evidence would change my conclusion **toward** “genuinely extraordinary technology” would be a single case with: released raw multi-sensor data; known calibration; synchronized timestamps; precise platform ephemerides; independent reconstruction by multiple outside teams; unambiguous 3D track; and clearly measured high acceleration or hypersonic speed **together with** absent expected signatures such as plume, shock, and thermal load. A second, independent case with the same quality would change the subject completely. citeturn27search23turn7view0
+
+What evidence would change my conclusion **toward** “mostly resolved and mundane” would be: public release of the missing telemetry and radar for Nimitz and the key Roosevelt cases followed by successful AARO-style reconstructions showing ordinary aircraft, balloons, drones, deceptive geometry, atmospheric artifacts, or sensor effects; plus plausible explanation of the witness/radar discrepancies. GOFAST is a model for how much the evidentiary picture can change once the geometry is formally reconstructed. citeturn14search23turn41view2
+
+The most important thing to watch next is not another short clip. It is whether AARO, Congress, or allied governments release **higher-fidelity sensor packages and formal case reconstructions** for the small set of still-prominent unresolved events, especially Nimitz, GIMBAL, Omaha, and later unresolved military clips placed on AARO’s imagery page in late 2025 and early 2026. Without that, public debate will remain trapped between overclaim and overdismissal. citeturn14search5turn23view0turn39view0
+
+## Open questions and limitations
+
+This report is strongest on the U.S. official record, Nimitz, the Roosevelt cases, and the disclosure timeline. It is weaker on the USS *Omaha* specifics and on Chile’s CEFAA documentation because, in the accessible source set reviewed here, I did not recover a fully official public technical packet comparable to AARO’s GOFAST material. That uncertainty is why I downweighted those cases rather than using them to support a strong conclusion. citeturn14search0turn31news24
+
+The central unresolved question remains simple: **do the best classified cases contain the kind of calibrated, multisensor kinematic evidence that the public cases do not?** Congress and whistleblowers imply yes; AARO’s public findings through mid-2026 do not support that conclusion. Until that gap is closed with data rather than rhetoric, the intellectually honest position is: **some events are truly unresolved, but the strongest publicly available evidence still falls short of proving technology inconsistent with known human engineering and conventional physics.** citeturn39view1turn5view0turn12view0turn27search23

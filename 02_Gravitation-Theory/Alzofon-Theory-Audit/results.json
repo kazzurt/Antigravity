@@ -1,0 +1,68 @@
+{
+  "formalism": {
+    "mass_shell_is_identity_max_rel_residual": 1.7763568394002505e-15,
+    "eq11_holds_for_all_motions_max_rel_residual": 2.098321516541546e-14,
+    "hidden_interval_always_spacelike": true,
+    "signature_of_eq3": "(+,+,+,-,+,+,+,-): six space-like, two time-like",
+    "eq5_minus_eq3_single_draw": -1.0499788226216176,
+    "eq5_minus_eq3_mean": -0.0005646639717240227
+  },
+  "gravity_model": {
+    "G_mp^2_over_hbar_c": 5.906149413805094e-39,
+    "orders_of_magnitude_missing": 38.22869557044743,
+    "proton_compton_wavelength_m": 1.3214098553893345e-15,
+    "electron_compton_wavelength_m": 2.426310238683092e-12,
+    "note": "h, c and m alone give a dimensionless coupling of order one; nothing in the stated mechanism supplies 5.9e-39",
+    "nucleon_count_source_eta_Be_Ti": 0.0024378017016832222,
+    "nucleon_count_source_eta_Be_Al": 0.0020367548071556843,
+    "measured_limit_Be_Ti_Schlamminger2008": "(0.3 +/- 1.8)e-13",
+    "excluded_by_orders": 10.131725870761796
+  },
+  "spin_bridge": {
+    "Al27_level_spacing_eV_at_0.33T": 1.515304508485205e-08,
+    "thermal_nuclear_polarization_300K": 6.838369466593429e-07,
+    "electron_polarization_300K": 0.0007388850627233334,
+    "max_DNP_enhancement_gamma_e_over_gamma_n": 2524.08808430154,
+    "nuclear_polarization_DNP_ceiling": 0.0017260646886679955,
+    "spin_energy_J_per_g_at_P1": 0.0001354673110737774,
+    "earth_gravitational_energy_J_per_g": 62478.16715,
+    "lattice_thermal_energy_J_per_g_rough": 269.1,
+    "lattice_over_spin_energy_at_P1": 1986457.0859714223,
+    "fractional_weight_change_if_spin_energy_drawn_from_gravity": {
+      "P=1": 2.1682343969620975e-09,
+      "P=DNP ceiling": 3.742512829351622e-12,
+      "P=thermal 300 K": 1.4827187896603228e-15
+    },
+    "claimed_fraction_alzofon_1994": 0.0022,
+    "claimed_fraction_falcon_2024_half_swing": 0.002325581395348837,
+    "claim_over_prediction_at_DNP_ceiling": 587840336.2430538,
+    "claim_over_prediction_at_P1": 1014650.4469638565,
+    "korringa_T1_at_300K_s": 0.006166666666666667,
+    "alzofon_pulse_s": 0.006,
+    "standard_dm_over_m_zeeman_P1": 1.5072771125967139e-18,
+    "standard_dm_over_m_T_times_spin_entropy": 1.8430072029181824e-12,
+    "falcon_claim_over_TS_bound": 1261840643.7405975
+  },
+  "falcon_scaling": {
+    "cycle_time_s": 702.439024390244,
+    "sweep_rate_G_per_s_ASSUMED_one_way": 4.982638888888888,
+    "feature_width_G_read_from_plot": 400,
+    "time_through_feature_s": 80.27874564459931,
+    "dPdt_ratio_alzofon_over_falcon": 13379.790940766552,
+    "predicted_falcon_signal_mg_under_dPdt_law": 0.0002771582916666666,
+    "observed_half_swing_mg": 4.0,
+    "observed_over_predicted": 14432.185939472918
+  },
+  "conventional_forces": {
+    "force_of_4mg_N": 3.9226599999999995e-05,
+    "resonance_field_T_g2_at_9.88GHz": 0.35254300186084186,
+    "iron_mass_g": 0.0344,
+    "iron_moment_A_m2_unsaturated_sphere": 0.0036769398122532193,
+    "dc_gradient_for_4mg_T_per_m": 0.0106682736196223,
+    "dc_gradient_for_4mg_G_per_cm": 1.06682736196223,
+    "TM110_radius_cm": 1.8504416241546755,
+    "rf_stored_energy_J_ASSUMED_Q1000_250W": 4.027199977021643e-06,
+    "rf_force_scale_mg_ASSUMED": 6.155758774728376,
+    "radiation_pressure_P_over_c_mg": 0.08503517898521719
+  }
+}
