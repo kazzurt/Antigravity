@@ -1,0 +1,83 @@
+{
+ "b_Pa_m": -5.254319749745207e+26,
+ "sigma0_kg_m2": 35077314984.465836,
+ "cases": {
+  "d0.05": {
+   "peak_radial_stress_Pa": 3.940739812308905e+28,
+   "peak_tangential_stress_Pa": 6.106393561808886e+30,
+   "peak_shear_stress_Pa": 1.9703699061544525e+28,
+   "most_negative_principal_stress_Pa": -6.106393561808886e+30,
+   "benchmark_g0c2_over_8piGd_Pa": 1.0508639499490412e+28,
+   "peak_field_in_wall_over_g0": 187.93983199954843,
+   "mass_needed_to_restore_dominant_energy_condition_kg": 349653282753189.9,
+   "its_pull_at_10m_from_centre_over_g0": 23.79702451988819
+  },
+  "d0.1": {
+   "peak_radial_stress_Pa": 1.9703699061544525e+28,
+   "peak_tangential_stress_Pa": 1.5364725664918366e+30,
+   "peak_shear_stress_Pa": 9.851849530772263e+27,
+   "most_negative_principal_stress_Pa": -1.5364725664918366e+30,
+   "benchmark_g0c2_over_8piGd_Pa": 5.254319749745206e+27,
+   "peak_field_in_wall_over_g0": 94.19214037168314,
+   "mass_needed_to_restore_dominant_energy_condition_kg": 177555998192558.06,
+   "its_pull_at_10m_from_centre_over_g0": 12.084269334957304
+  },
+  "d0.2": {
+   "peak_radial_stress_Pa": 9.851849530772263e+27,
+   "peak_tangential_stress_Pa": 3.8910545761845974e+29,
+   "peak_shear_stress_Pa": 4.9259247653861313e+27,
+   "most_negative_principal_stress_Pa": -3.8910545761845974e+29,
+   "benchmark_g0c2_over_8piGd_Pa": 2.627159874872603e+27,
+   "peak_field_in_wall_over_g0": 47.32168926312898,
+   "mass_needed_to_restore_dominant_energy_condition_kg": 91616081974480.3,
+   "its_pull_at_10m_from_centre_over_g0": 6.23529152077696
+  },
+  "d0.5": {
+   "peak_radial_stress_Pa": 3.940739812308905e+27,
+   "peak_tangential_stress_Pa": 6.4714410905169345e+28,
+   "peak_shear_stress_Pa": 1.9703699061544526e+27,
+   "most_negative_principal_stress_Pa": -6.4714410905169345e+28,
+   "benchmark_g0c2_over_8piGd_Pa": 1.0508639499490414e+27,
+   "peak_field_in_wall_over_g0": 19.209794047229376,
+   "mass_needed_to_restore_dominant_energy_condition_kg": 40360014831718.195,
+   "its_pull_at_10m_from_centre_over_g0": 2.746858988455148
+  },
+  "d1.0": {
+   "peak_radial_stress_Pa": 1.9703699061544526e+27,
+   "peak_tangential_stress_Pa": 1.7254158888083614e+28,
+   "peak_shear_stress_Pa": 9.851849530772263e+26,
+   "most_negative_principal_stress_Pa": -1.7254158888083614e+28,
+   "benchmark_g0c2_over_8piGd_Pa": 5.254319749745207e+26,
+   "peak_field_in_wall_over_g0": 9.854924693231832,
+   "mass_needed_to_restore_dominant_energy_condition_kg": 23755919956131.32,
+   "its_pull_at_10m_from_centre_over_g0": 1.6168022368821897
+  },
+  "d2.5": {
+   "peak_radial_stress_Pa": 7.88147962461781e+26,
+   "peak_tangential_stress_Pa": 3.3325538315071124e+27,
+   "peak_shear_stress_Pa": 3.940739812308905e+26,
+   "most_negative_principal_stress_Pa": -3.3325538315071124e+27,
+   "benchmark_g0c2_over_8piGd_Pa": 2.101727899898083e+26,
+   "peak_field_in_wall_over_g0": 4.279308849772895,
+   "mass_needed_to_restore_dominant_energy_condition_kg": 15268443289474.584,
+   "its_pull_at_10m_from_centre_over_g0": 1.0391537481906687
+  },
+  "d5.0": {
+   "peak_radial_stress_Pa": 3.940739812308905e+26,
+   "peak_tangential_stress_Pa": 1.1056168145653739e+27,
+   "peak_shear_stress_Pa": 1.9703699061544524e+26,
+   "most_negative_principal_stress_Pa": -1.105616814565374e+27,
+   "benchmark_g0c2_over_8piGd_Pa": 1.0508639499490415e+26,
+   "peak_field_in_wall_over_g0": 2.4603992821591616,
+   "mass_needed_to_restore_dominant_energy_condition_kg": 15235283019718.262,
+   "its_pull_at_10m_from_centre_over_g0": 1.0368968960705804
+  }
+ },
+ "ordinary_matter_shell": {
+  "mass_kg": 11019863506285.305,
+  "field_just_above_top_over_g0": 6.0,
+  "field_just_below_bottom_over_g0": 0.0,
+  "pull_at_10m_above_centre_m_s2": 19.6133,
+  "weight_of_shell_N": 108067944453912.78
+ }
+}

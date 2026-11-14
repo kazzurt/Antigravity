@@ -62,6 +62,12 @@
 !02_Gravitation-Theory/Alzofon-Theory-Audit/*.py
 !02_Gravitation-Theory/Alzofon-Theory-Audit/*.json
 
+# November Unspace and Glenn claim audit: check script and generated results only.
+!02_Gravitation-Theory/Unspace-Glenn-Claim-Audit/
+!02_Gravitation-Theory/Unspace-Glenn-Claim-Audit/*.md
+!02_Gravitation-Theory/Unspace-Glenn-Claim-Audit/*.py
+!02_Gravitation-Theory/Unspace-Glenn-Claim-Audit/*.json
+
 !Nathan-Inan-Publications/
 Nathan-Inan-Publications/*
 !Nathan-Inan-Publications/Download-Inan-Papers.bat
@@ -72,3 +78,12 @@ Nathan-Inan-Publications/*
 00_Knowledgebase/threads/resonant-field-control.md
 _private/
 00_Knowledgebase/sources/zeller*.md
+
+# Bubble-wall study: scripts, notes, results and figures.
+!02_Gravitation-Theory/Bubble-Wall/
+!02_Gravitation-Theory/Bubble-Wall/*.md
+!02_Gravitation-Theory/Bubble-Wall/*.py
+!02_Gravitation-Theory/Bubble-Wall/*.json
+!02_Gravitation-Theory/Bubble-Wall/*.csv
+!02_Gravitation-Theory/Bubble-Wall/*.png
+02_Gravitation-Theory/Bubble-Wall/STATUS.md

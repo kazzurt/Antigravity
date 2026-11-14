@@ -1,0 +1,141 @@
+{
+ "R_m": 5.0,
+ "g0": 9.80665,
+ "sigma0_kg_m2": 35077314984.465836,
+ "cases": {
+  "A_d0.05_tophat": {
+   "interior_g_over_g0_on_axis": 1.0324865254272793e-14,
+   "g_over_g0_just_outside_pole": -2.970200228998561,
+   "exterior_dipole_coefficient_over_g0R3": 1.0151003756249999,
+   "potential_step_over_g0R": 0.015049629350001635,
+   "peak_abs_density_kg_m3": 699796807670.1412,
+   "absolute_mass_inventory_kg": 5565214964646.339
+  },
+  "A_d0.05_smooth": {
+   "interior_g_over_g0_on_axis": -1.8113798691706654e-16,
+   "g_over_g0_just_outside_pole": -2.970170339662209,
+   "exterior_dipole_coefficient_over_g0R3": 1.0150849758315619,
+   "potential_step_over_g0R": 0.01506472421209269,
+   "peak_abs_density_kg_m3": 1403092599378.6382,
+   "absolute_mass_inventory_kg": 5565186821425.491
+  },
+  "A_d0.2_tophat": {
+   "interior_g_over_g0_on_axis": 1.1773969149609325e-14,
+   "g_over_g0_just_outside_pole": -2.8872742072922906,
+   "exterior_dipole_coefficient_over_g0R3": 1.0616165100000006,
+   "potential_step_over_g0R": 0.0586202303528266,
+   "peak_abs_density_kg_m3": 175277026780.5913,
+   "absolute_mass_inventory_kg": 5733268571858.661
+  },
+  "A_d0.2_smooth": {
+   "interior_g_over_g0_on_axis": -3.622759738341331e-16,
+   "g_over_g0_just_outside_pole": -2.8868323611432913,
+   "exterior_dipole_coefficient_over_g0R3": 1.0613679657424437,
+   "potential_step_over_g0R": 0.05885000139646006,
+   "peak_abs_density_kg_m3": 350773149844.65796,
+   "absolute_mass_inventory_kg": 5732821035291.086
+  },
+  "A_d1.0_tophat": {
+   "interior_g_over_g0_on_axis": -1.7389246744038388e-13,
+   "g_over_g0_just_outside_pole": -2.55304978429916,
+   "exterior_dipole_coefficient_over_g0R3": 1.3420027499999996,
+   "potential_step_over_g0R": 0.2681813031758968,
+   "peak_abs_density_kg_m3": 35072930868.10732,
+   "absolute_mass_inventory_kg": 6685388452089.546
+  },
+  "A_d1.0_smooth": {
+   "interior_g_over_g0_on_axis": 2.1736558430047983e-15,
+   "g_over_g0_just_outside_pole": -2.5453077565832305,
+   "exterior_dipole_coefficient_over_g0R3": 1.335312801879604,
+   "potential_step_over_g0R": 0.272826713356147,
+   "peak_abs_density_kg_m3": 70154629968.93167,
+   "absolute_mass_inventory_kg": 6674218404339.413
+  },
+  "A_d2.5_tophat": {
+   "interior_g_over_g0_on_axis": 2.046859252162852e-14,
+   "g_over_g0_just_outside_pole": -2.203587970524275,
+   "exterior_dipole_coefficient_over_g0R3": 2.031257812499998,
+   "potential_step_over_g0R": 0.5973289324075306,
+   "peak_abs_density_kg_m3": 14030224482.562204,
+   "absolute_mass_inventory_kg": 8724070088167.018
+  },
+  "A_d2.5_smooth": {
+   "interior_g_over_g0_on_axis": 3.079345777590131e-15,
+   "g_over_g0_just_outside_pole": -2.175441382413295,
+   "exterior_dipole_coefficient_over_g0R3": 1.9837556951676485,
+   "potential_step_over_g0R": 0.6184395771554685,
+   "peak_abs_density_kg_m3": 28061851987.572662,
+   "absolute_mass_inventory_kg": 8654274508265.417
+  },
+  "B_d0.05_tophat": {
+   "interior_g_over_g0_on_axis": 3.6626100954630855e-13,
+   "g_over_g0_just_outside_pole": -1.0000000000000777,
+   "exterior_dipole_coefficient_over_g0R3": 4.008288549515989e-14,
+   "potential_step_over_g0R": 1.0100499999999608,
+   "peak_abs_density_kg_m3": 94239495893125.12,
+   "absolute_mass_inventory_kg": 742044013375353.2
+  },
+  "B_d0.05_smooth": {
+   "interior_g_over_g0_on_axis": 4.3291978873178904e-14,
+   "g_over_g0_just_outside_pole": -1.0000000000000948,
+   "exterior_dipole_coefficient_over_g0R3": 4.88163416203484e-14,
+   "potential_step_over_g0R": 1.0100499999999522,
+   "peak_abs_density_kg_m3": 189420907476248.06,
+   "absolute_mass_inventory_kg": 745723663719456.1
+  },
+  "B_d0.2_tophat": {
+   "interior_g_over_g0_on_axis": -5.2530016205949294e-14,
+   "g_over_g0_just_outside_pole": -0.9999999999999368,
+   "exterior_dipole_coefficient_over_g0R3": -3.5548259624552584e-14,
+   "potential_step_over_g0R": 1.040050000000033,
+   "peak_abs_density_kg_m3": 6136656238103.695,
+   "absolute_mass_inventory_kg": 194755015241161.12
+  },
+  "B_d0.2_smooth": {
+   "interior_g_over_g0_on_axis": -9.056899345853326e-16,
+   "g_over_g0_just_outside_pole": -0.9999999999999323,
+   "exterior_dipole_coefficient_over_g0R3": -3.813384032298474e-14,
+   "potential_step_over_g0R": 1.0400500000000352,
+   "peak_abs_density_kg_m3": 12280416568169.37,
+   "absolute_mass_inventory_kg": 194869758255155.62
+  },
+  "B_d1.0_tophat": {
+   "interior_g_over_g0_on_axis": 8.669264053850805e-13,
+   "g_over_g0_just_outside_pole": -0.9999999999999977,
+   "exterior_dipole_coefficient_over_g0R3": -2.0259933316296338e-15,
+   "potential_step_over_g0R": 1.2000500000000016,
+   "peak_abs_density_kg_m3": 294006777541.9429,
+   "absolute_mass_inventory_kg": 48746650060154.7
+  },
+  "B_d1.0_smooth": {
+   "interior_g_over_g0_on_axis": -4.5284496729266634e-15,
+   "g_over_g0_just_outside_pole": -1.0000000000000127,
+   "exterior_dipole_coefficient_over_g0R3": 1.0918577179819264e-14,
+   "potential_step_over_g0R": 1.2000499999999925,
+   "peak_abs_density_kg_m3": 587731301504.7186,
+   "absolute_mass_inventory_kg": 48695770877705.64
+  },
+  "B_d2.5_tophat": {
+   "interior_g_over_g0_on_axis": 1.1464223191981142e-12,
+   "g_over_g0_just_outside_pole": -0.9999999999999953,
+   "exterior_dipole_coefficient_over_g0R3": -7.99489508387954e-15,
+   "potential_step_over_g0R": 1.5000500000000034,
+   "peak_abs_density_kg_m3": 62343173238.3614,
+   "absolute_mass_inventory_kg": 28319216063867.98
+  },
+  "B_d2.5_smooth": {
+   "interior_g_over_g0_on_axis": -2.5359318168389316e-15,
+   "g_over_g0_just_outside_pole": -0.9999999999999978,
+   "exterior_dipole_coefficient_over_g0R3": -3.816457089037833e-15,
+   "potential_step_over_g0R": 1.5000500000000017,
+   "peak_abs_density_kg_m3": 124327590447.6748,
+   "absolute_mass_inventory_kg": 28146042795578.73
+  }
+ },
+ "gravitomagnetic": {
+  "translating_interior_Bg_per_s_at_v300": 1.309364360663786e-13,
+  "rotating_Bg_scale_per_s_at_OmegaR_10": 5.237457442655144e-15,
+  "earth_frame_dragging_scale_per_s": 1.6828256328193445e-14,
+  "lapse_step_g0R_over_c2": 5.455684836099108e-16
+ }
+}

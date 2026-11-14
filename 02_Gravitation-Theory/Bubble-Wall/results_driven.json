@@ -1,0 +1,55 @@
+{
+ "energy_condition_limit": {
+  "k": 4,
+  "min_mass_kg": 918321958857.1086,
+  "min_energy_J": 8.253466162705652e+28,
+  "min_outside_pull_at_10m_m_s2": 0.612915625,
+  "min_outside_pull_at_100m_m_s2": 0.00612915625
+ },
+ "radiation_or_moving_particles": {
+  "k": 2,
+  "min_mass_kg": 1836643917714.2173,
+  "min_energy_J": 1.6506932325411304e+29,
+  "min_outside_pull_at_10m_m_s2": 1.22583125,
+  "min_outside_pull_at_100m_m_s2": 0.0122583125
+ },
+ "cold_matter": {
+  "k": 1,
+  "min_mass_kg": 3673287835428.4346,
+  "min_energy_J": 3.301386465082261e+29,
+  "min_outside_pull_at_10m_m_s2": 2.4516625,
+  "min_outside_pull_at_100m_m_s2": 0.024516625
+ },
+ "lopsided_shell_over_cold_bound": 3.0000000000000004,
+ "wave_filled_wall": {
+  "d0.2": {
+   "energy_density_J_m3": 2.5248204845649056e+27,
+   "B_rms_T": 56327462168.7934,
+   "E_rms_V_m": 1.6886548336484585e+19,
+   "E_over_schwinger": 12.79283964885196
+  },
+  "d1.0": {
+   "energy_density_J_m3": 4.330483310229566e+26,
+   "B_rms_T": 23327764191.1182,
+   "E_rms_V_m": 6.993487766499707e+18,
+   "E_over_schwinger": 5.298096792802808
+  },
+  "d5.0": {
+   "energy_density_J_m3": 4.503702642638749e+25,
+   "B_rms_T": 7522977904.012967,
+   "E_rms_V_m": 2.2553320373237356e+18,
+   "E_over_schwinger": 1.7085848767604057
+  }
+ },
+ "negative_energy_duration_s": {
+  "1e+27_Pa": 7.80856798392221e-23,
+  "1e+28_Pa": 4.391080467917748e-23,
+  "1e+30_Pa": 1.388581566769801e-23
+ },
+ "driving_side_effects": {
+  "gw_power_W_at_1kHz_10pct_modulation": 3.575290758824739e-05,
+  "gw_power_W_at_1MHz_10pct_modulation": 35752907588247.39,
+  "ponderomotive_over_g0_at_1Hz_for_1g_oscillation": 0.04968106927830658,
+  "ponderomotive_over_g0_at_1kHz_for_1g_oscillation": 4.968106927830659e-08
+ }
+}

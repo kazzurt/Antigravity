@@ -231,3 +231,38 @@
 
 - The public repository now holds only analyses of publicly available papers and records. Removed from tracking: experimental-program text files, one thread page, and three digests of unpublished internal presentations. Local copies are retained and git-ignored.
 - Removed experimental-program and private-administration entries from the index, the October review, the relationship map, the resonant-control mechanism page, the thread list, and the reports that reviewed internal presentations. Git history was replaced by a single clean commit. The removed text is preserved in a local-only notes file.
+
+## 2026-11-10 — Idrissov thin-shell stability preprint digested
+
+- Added a source digest for Idrissov, *Exact radial stability threshold for a Minkowski–Schwarzschild thin shell* (arXiv:2610.17629v1), with a catalog row and an evidence-register row (rating B).
+- Read all six pages. Re-derived the surface stresses, the `25M/12` and `9M/4` radii, the critical sound speed, the causal-threshold cubic and root (`a_crit = 2.3704 M`), two tabulated `β²_crit` values, the `m → M` limit, one table row, and the Newtonian limit (`Γ > 3/2`). No error found. The author's notebook was not available.
+- Checked by abstract that Pitre–Schneider–Poisson (arXiv:2604.05980) reports the non-radial instability the paper relies on, and that LeMaitre–Poisson (arXiv:1909.06253), which the paper does not cite, covers the equilibrium-sequence/instability link for thin shells.
+- Project reading: the configuration is a massive shell in inertial motion, not a propulsion mechanism; the threshold applies only near the horizon (a 10 m shell at threshold weighs about 3 Jupiter masses). No gate decision changes.
+- Open: the PDF is still at the project root as `2610.17629v1.pdf`; filing it, the text twin, and the `INDEX.md` row are not done.
+
+## 2026-11-13 — Unspace radial-stress and Glenn spark-gap claims ingested
+
+- Filed both papers in `03_Propulsion-and-Anomalies/` with text twins: Lentz et al. (Unspace), *Symmetry* 18, 1457 (2026), fetched from the publisher page through the browser because scripted download hits a bot check; and Glenn, EJ-ENG 10(2), 39 (2025). Read both in full.
+- Added source digests, catalog rows, evidence-register rows (both E), relationship entries, index rows, and a check package (`02_Gravitation-Theory/Unspace-Glenn-Claim-Audit/`, Python with numpy; `.gitignore` exceptions added).
+- **Unspace findings:**
+  - The paper's own body assigns the `ω²` torque to non-gravitational systematics. The measured deflection (0.036 rad) is 14 orders above GR (`KE/Mc² = 4.8 × 10⁻¹⁴`; the paper's eq. 89 gives `6 × 10⁻¹⁶ rad`, not "ten orders" below).
+  - About `1.2 × 10⁻⁸ N` per test mass is within reach of 4 mm/s air flow or about 10 mK convection at 1.41 mm from a 147 m/s rotor.
+  - The Table 6 energy match uses an inserted `(ωr/c)²`, a chosen slice thickness, and the logarithm of a length in metres. Re-evaluated it is negative in metres and changes sign in centimetres.
+  - The G-check `Z = 0.216` uses signed deflections; with magnitudes it is 2.1 (1.5 for 15 independent pairs). The far source, −7.7 % of the torque, is omitted.
+  - `θ₀` is the midpoint of the CW/CCW rest readings in every pair. The stated density, 7,800 kg/m³, contradicts the 16,600 kg/m³ the test masses imply.
+  - The Zenodo deposit holds only a summary workbook; the TDMS time series named in the Data Availability Statement are not there.
+- **Glenn findings:**
+  - Equal nanometre shifts at 532 and 650 nm are what refraction predicts (air `(n−1)` ratio 1.007). The paper's expected 1.22 is the wavelength ratio.
+  - A 150 nm path change needs about 8–32 K of air heating over 5–20 mm, while half of one ~1.2 J spark heats a 5 mm sphere of air by about 900 K. The 0.2 s response and ringing fit gas and mounts.
+  - GR strain at 1 cm is about `2 × 10⁻⁴²` against the observed `2.2 × 10⁻⁷`. The Alcubierre prefactor is off by 4.
+- No gate decision changes. Open: the Unspace summary workbook was not opened, and the Research Square preprint was not compared with the published version.
+- Same day: wrote technical-assessment PDFs for both papers (`01_Reports-and-Syntheses/Unspace-Radial-Stress-Torsion-Balance-Technical-Assessment-2026-11-13.pdf`, 5 pp.; `Glenn-Spark-Gap-Interferometry-Technical-Assessment-2026-11-13.pdf`, 4 pp.), built by `build_assessment_pdfs.py` from the check results, with one figure each. Linked from the digests and the index. These PDFs sit in a tracked folder, so they would become public on the next commit.
+
+## 2026-11-13 - Unspace and Glenn assessments revised after independent review
+
+- Replaced both assessment PDFs in place at Kurt's explicit request; no backup editions were retained. Current reports are six pages (Unspace) and five pages (Glenn). Original research papers and raw published inputs remain untouched.
+- The two knowledgebase digests are now the editable PDF authoring source. Updated builder, index, source catalog, evidence register and relationship entries to match; the preceding ingestion entry is historical and its categorical artifact/strain statements are superseded by this revision.
+- Unspace: corrected the crossover and abstract characterization; qualified airflow, convection, deformation and statistical estimates; added wrong metric-component force conversion, inverse-distance/log kernel and unit discontinuity, energy/force-law failure, complex/test-body-dependent metric, flyby conservation, optical controls, damping and clearance/refit checks.
+- Glenn: wavelength equality permits refraction but does not identify it; corrected near-zone, ringing, range, helium and single-control overclaims; added double-pass calibration, image-analysis confounds, electrical energy integration, full conserved quadrupole source and Alcubierre velocity units.
+- Verified environment: C:/Python314/python.exe with existing numpy, matplotlib, reportlab and pypdf. Bundled Codex Python lacked matplotlib and was not changed. Calculation scripts ran; page-count and heading checks passed; all 11 pages rendered with Poppler and visually inspected.
+- Current Zenodo contents could not be independently retrieved. Gravitational attribution remains E for both; no project gate decision changes. Further work depends on full records or new calibrated control data. No commit or publication was performed.
